@@ -1,2 +1,8 @@
-# CodeForces-PHP-Solutions
-This repository contains my PHP solutions to various CodeForces problems.
+# CodeForces PHP Solutions
+
+# Difficulty 800
+
+<strong>Problem 50 A. Domino Piling: </strong> https://codeforces.com/problemset/problem/50/A 
+<br>
+
+----------------------------------------------------------------------------------------------------------------
