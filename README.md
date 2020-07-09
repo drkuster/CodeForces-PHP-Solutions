@@ -6,5 +6,7 @@
 <br>
 <strong>Problem 144 A. Arrival of the General: </strong> https://codeforces.com/problemset/problem/144/A 
 <br>
+<strong>Problem 181 A. Series of Crimes: </strong> https://codeforces.com/problemset/problem/181/A 
+<br>
 
 ----------------------------------------------------------------------------------------------------------------
