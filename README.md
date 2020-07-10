@@ -8,5 +8,7 @@
 <br>
 <strong>Problem 181 A. Series of Crimes: </strong> https://codeforces.com/problemset/problem/181/A 
 <br>
+<strong>Problem 1337 A. Ichihime and Triangle: </strong> https://codeforces.com/problemset/problem/1337/A 
+<br>
 
 ----------------------------------------------------------------------------------------------------------------
